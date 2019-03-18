@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="AndroidProjectServer(4):war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/AndroidProjectServer_4__war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="AndroidProjectServer(4)/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="AndroidProjectServer(4)" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
